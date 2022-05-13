@@ -1,0 +1,64 @@
+{
+    "metadata": {
+        "title": "Apollo 13 Technical Air-To-Ground Voice Transcription",
+        "description": "NASA's Apollo 13 TAG voice communications in JSON format",
+        "sources": {
+            "originalTranscription": {
+                "source": "Test Division Apollo Spacecraft Program Office, Manned Spacecraft Center, Houston, Texas, April 1970",
+                "date": "April 1970",
+                "url": "https://www.hq.nasa.gov/alsj/a13/a13trans.html"
+            },
+            "pdfTransciption": {
+                "url": "https://www.hq.nasa.gov/alsj/a13/AS13_TEC.PDF",
+                "dateOfSourceCopy": "2022-05-01"
+            },
+            "txtTransciption": {
+                "url": "https://www.hq.nasa.gov/alsj/a13/AS13_TEC.txt",
+                "dateOfSourceCopy": "2022-05-01"
+            }
+        }
+    },
+    "preamble": {
+        "titlePage": "NATIONAL AERONAUTICS AND SPACE ADMINISTRATION\nAPOLLO 13\nTECHNICAL AIR-TO-GROUND VOICE TRANSCRIPTION\nPrepared by Test Division Apollo Spacecraft Program Office\nMANNED SPACECRAFT CENTER\nHOUSION,TEXAS April 1970",
+        "introductionText": [
+            "This is the transcription of the technical air-to-ground (TAG) voice communications of the Apollo 13 mission. The primary communications net (GOSS net l) will be in continuous operation for the duration of the mission. An alternate communications net (GOSS net 2) may be activated when separate, simultaneous communications links with both spacecraft are desired.",
+        ],
+        "fullText": "\n\n\n\n\n\n\n\nNATIONAL AERONAUTICS AND SPACE ADMINISTRATION\n\n\n\n\n\n\n\nAPOLLO 13\n\nTECHNICAL AIR-TO-GROUND VOICE TRANSCRIPTION\n\n\n\n\n\n\nPrepared by Test Division Apollo Spacecraft Program Office\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMANNED SPACECRAFT CENTER\nHOUSION,TEXAS April 1970\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nINTRODUCTION\n\nThis is the transcription of the technical air-to-ground (TAG) voice communications of the Apollo 13 mission. The primary communications net (GOSS net l) will be in continuous operation for the duration of the mission. An alternate communications net (GOSS net 2) may be activated when separate, simultaneous communications links with both spacecraft are desired.\n\nThe transcript is divided into three columns -- time, speaker, and text. The time column consists of four two-digit pairs for days, hours, minutes, and seconds (e.g., 04 22 45 12). The speaker column indicates the source of a transmission; the text column contains the verbatim transcript of the communications.\n\nThe primary communications net (GOSS net l) comprises the bulk of the transcript. However, when GOSS net 2 is activated, the communications on that net will be integrated with the GOSS net 1 communications. A heavy dark line alongside the time column will indicate GOSS net 2 communications.\n\nA series of three dots (...) is used to designate those portions of the text that could not be transcribed because of garbling. A series of three asterisks (***) is used to designate those portions of the text that could not be transcribed because of clipping caused by the VOX mode. One dash (-) is used to indicate a speaker's pause or a self-interruption and subsequent completion of a thought. Two dashes (- -) are used to indicate an interruption by another speaker or the point at which a recording was abruptly terminated.\n\nSpeakers in the transcript may be identified as follows.\nSpacecraft:\nCDR                Commander            James A. (Jim) Lovell, Jr.\nCMP                Command module pilot    John L. Swigert, Jr.\nLMP                Lunar module pilot    Fred W. Haise, Jr.\nSC                Unidentified crewmember\nMS                Multiple speakers\nMission Control Centers:\nCC                Capsule communicator (CAP COMM)\nLCC                Launch Control Center\nF                Flight director\nS                Surgeon\nRemote sites:\nAB                Airboss (Recovery aircraft)\nCT                Communications technician (COMM TECH)\nIWO                USS Iwo Jima\nP-l, P-2, etc.            Photographic helicopters\nR-l, R-2, etc.            Recovery helicopters\n\nWhen the CDR and LMP are in the undocked lunar module or on the lunar surface, their speaker designations will be suffixed by either LM or EVA to indicate their status (e.g., CDR-EVA or LMP-LM). Voice calls during this mission were assigned in accordance with the following station operating procedures: For all phases when only the CSM is manned, the AS-508 call sign will be Apollo 13. When both vehicles are manned, the call sign will be Odyssey for the CSM and Aquarius for the LM. The call signs for the CDR and LMP during lunar surface operations will be the individual crew's first names.\nTranscription of these tapes was managed by David M. Goldenbaum, Test Division, Apollo Spacecraft Program Office, to whom questions regarding this document should be referred.\nACRONYM LIST\n\nBecause specialized readers of the Apollo 13 transcription, such as the principal investigators, may not be thoroughly familiar with the acronyms used during the mission, the decision was made to define those acronyms that probably will be encountered. For obvious reasons, no effort was made to include every acronym that conceivably could be used; only those acronyms that are considered likely to be used are included here.\nAEA        Abort electronics assembly\nAGS        Abort guidance system\nALSCC      Apollo lunar surface closeup camera\nALSD       Apollo lunar surface drill\nALSEP      Apollo lunar surface experiments package\nAOS        Acquisition of signal\nAOT        Alinement optical telescope\nAPS        Auxiliary propulsion system (S-IVB)/Ascent propulsion system (LM)\nARS        Atmosphere revitalization system\nBEF        Blunt end forward\nCCGE       Cold cathode gage experiment\nCCIG       Cold cathode ion gage\nCDH        Constant delta altitude (height)\nCM         Command module\nCMC        Command module computer\nCOAS       Crew optical alinement sight\nCP         Control point\nCPLEE      Charged particle lunar environment experiment\nCSC        Contingency sample collection\nCSI        Coelliptic sequence initiation\nCSM        Command and service module\nCWEA       Caution and warning electronics assembly\nDAC        Data acquisition camera\nDAP        Digital autopilot\nDEDA       Data entry and display assembly\nDET        Digital event timer\nDOI        Descent orbit insertion\nDPS        Descent propulsion system\nDSE        Data storage equipment\nDSEA       Data storage equipment assembly\nDSKY       Display and keyboard\nDTO        Detailed test objective\nECS        Environmental control system\nEI         Entry interface\nEMS        Entry monitor system\nEMU        Extravehicular mobility unit\nEPS        Electrical power system\nETB        Equipment transfer bag\nEVA        Extravehicular activity\nEVT        Extravehicular transfer\nFDAI       Flight director attitude indicator\nGDC        Gyro display coupler\nGET        Ground elapsed time\nGETI       Ground elapsed time of ignition\nHFE        Heat flow experiment\nHGA        High gain antenna\nHTC        Handtool carrier\nIMU        Inertial measurement unit\nIP         Initial point\nISA        Interim stowage assembly\nIU         Instrument unit\nIVT        Intravehicular transfer\nLAD        Lunar atmosphere detector\nLCG        Liquid cooled garment\nLEB        Lower equipment bay\nLEC        Lunar equipment conveyor\nLGC        Lunar module guidance computer\nLM         Lunar module\nLOI        Lunar orbit insertion\nLOPC       Lunar orbit plane change\nLOS        Loss of signal/line of sight\nLPD        Landing point designator\nLTC        Lunar topographic camera\nMCC        Mission Control Center/midcourse correction\nMESA       Modular equipment stowage assembly\nMSFN       Manned Space Flight Network\nMTVC       Manual thrust vector control\nOPS        Oxygen purge system\nORDEAL     Orbital rate display earth and lunar\nPDI        Powered descent initiation\nPGA        Pressure garment assembly\nPGNCS      Primary guidance, navigation, and control system (CM)\nPGNS       Primary guidance and navigation system (LM)\nPIPA       Pulsed integrating pendulous accelerometer\nPLSS       Portable life support system\nPRD        Personal radiation dosimeter\nPSE        Passive seismic experiment\nPTC        Passive thermal control\nRCS        Reaction control system\nRCU        Remote control unit\nREFSMMAT   Reference to stable member matrix\nRLS        Radius of landing site\nRTG        Radioisotope thermoelectric generator\nSCE        Signal conditioning equipment\nSCS        Stabilization control system\nSECS       Sequential events control system\nSEF        Sharp end forward\nSIDE       Suprathernial ion detector experiment\nSLA        SM/LM adapter\nSM         Service module\nSNAP       Systems for nuclear auxiliary power\nSPS        Service propulsion system\nSRC        Sample return container\nSWC        Solar wind composition\nSWE        Solar wind experiment\nTEC        Transearth coast\nTEI        Transearth injection\nTig        Time of ignition\nTLC        Translunar coast\nTLI        Translunar injection\nTPF        Terminal phase final\nTPI        Terminal phase initiation\nTSB        Temporary stowage bag\nTVC        Thrust vector control\nUHT        Universal handtool\n"
+    },
+    "acronyms": {
+        "speakers": {
+            "spacecraft": [
+                {
+                    "abbreviation": "CDR",
+                    "definition": "Commander",
+                    "name": "James A. (Jim) Lovell, Jr."
+                }
+            ],
+            "mission-control-centers": [
+                {
+                    "abbreviation": "CC",
+                    "definition": "Capsule communicator (CAP COMM)"
+                }
+            ],
+            "remote-sites": [
+                {
+                    "abbreviation": "AB",
+                    "definition": "Airboss (Recovery aircraft)"
+                }
+            ]
+        },
+        "equipment": [
+            {
+                "acronym": "AEA",
+                "definition": "Abort electronics assembly"
+            }
+        ]
+    },
+    "transcript": [
+        {
+            "timestamp": "000:00:02",
+            "speaker": "CDR",
+            "text": "The clock is running."
+        }
+    ]
+}
