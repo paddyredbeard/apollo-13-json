@@ -16,7 +16,7 @@ The JSON format presents Kueffen's plain text within a series of keyed objects:
 - `acronyms` - The list of acronyms described in the original transcript
 - `transcript` - An array listing each of the verbal communications between the air and ground crews
 
-A technical description of this format is available in the [JSON schema](apollo-13-tecatg.schema.json) file.
+A technical description of this format is available in the [JSON schema](apollo-13-tecatg-schema.json) file.
 The schema file was generated at <https://extendsclass.com/json-schema-validator.html> from the [_sample.json](_sample.json) file.
 
 ## Motivation
