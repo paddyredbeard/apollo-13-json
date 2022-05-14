@@ -1,4 +1,4 @@
-# Apollo 13 - JSON
+# Apollo 13 dot JSON
 
 This project is a JSON representation of the **Apollo 13 Technical Air-to-Ground Transcript** originally published by NASA in April 1970.
 
