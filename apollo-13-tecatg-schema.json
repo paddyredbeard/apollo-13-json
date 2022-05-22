@@ -413,6 +413,16 @@
 						],
 						"pattern": "^.*$"
 					},
+					"ddhhmmss": {
+						"$id": "#root/transcript/items/ddhhmmss", 
+						"title": "ddhhmmss", 
+						"type": "string",
+						"default": "",
+						"examples": [
+							"00:00:00:02"
+						],
+						"pattern": "^.*$"
+					},
 					"speaker": {
 						"$id": "#root/transcript/items/speaker", 
 						"title": "Speaker", 
