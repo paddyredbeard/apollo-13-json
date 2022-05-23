@@ -12,7 +12,7 @@ PDF copies of this and other [Apollo 13 transcripts](https://www.hq.nasa.gov/als
 
 The JSON format presents Kueffen's plain text within a series of keyed objects:
 
-- `metadata` - Metadata about this file and it's sources.
+- `metadata` - Metadata about this file and its sources.
 - `preamble` - The title page and introduction text of the original transcript
 - `acronyms` - The list of acronyms described in the original transcript
 - `transcript` - An array containing each of the verbal communications between the air and ground crews
