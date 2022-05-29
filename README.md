@@ -39,7 +39,7 @@ Timestamp `055:52:58`: CAP COMM requests the air crew stir the oxygen tanks: "13
 
 Timestamp `055:55:35`: Lovell reports the initial trouble with the Service Module's oxygen tank saying, "Houston, we've had a problem. We've had a MAIN B BUS UNDERVOLT."
 
-### A Successfull Experiment
+### A Successful Experiment
 
 Timestamp `078:02:44`: Swigert, replying to the news that the S-IVB engine successfully crashed into the moon's surface, completing a planned, seismic experiment says, "Well, at least something worked on this flight."
 
@@ -50,4 +50,3 @@ Timestamp `080:22:13`: CAP COMM begins to describe the the procedure to modify t
 ### A Good Ship
 
 Timestamp `142:30:50`: Mission control mentions contact was lost with Aquarious and Swigert remarks, "She sure was a good ship."
-
