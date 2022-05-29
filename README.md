@@ -33,7 +33,21 @@ I created the JSON format in the hope it could be useful for creating a searchab
 
 ## Notable Exchanges Within the Transcript
 
-Timestamp `055:55:20`: Lovell reports the initial trouble with the Service Module's oxygen tank saying, "Houston, we've had a problem..."
+### Stirring the Cryo Tanks and Initial Problem
+
+Timestamp `055:52:58`: CAP COMM requests the air crew stir the oxygen tanks: "13, we've got one more item for you, when you get a chance. We'd like you to stir up your cryo tanks."
+
+Timestamp `055:55:35`: Lovell reports the initial trouble with the Service Module's oxygen tank saying, "Houston, we've had a problem. We've had a MAIN B BUS UNDERVOLT."
+
+### A Successfull Experiment
+
+Timestamp `078:02:44`: Swigert, replying to the news that the S-IVB engine successfully crashed into the moon's surface, completing a planned, seismic experiment says, "Well, at least something worked on this flight."
+
+### The Mailbox
+
+Timestamp `080:22:13`: CAP COMM begins to describe the the procedure to modify the Command Module carbon dioxide scrubber to work in the Landing Module, "Yes. Me wish we could send you a kit and it would be kind of like putting a model airplane together or something. As it turns cut, this contraption will look like a mailbox when you get it all put together. [sic]"
+
+### A Good Ship
 
 Timestamp `142:30:50`: Mission control mentions contact was lost with Aquarious and Swigert remarks, "She sure was a good ship."
 
