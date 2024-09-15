@@ -33,6 +33,18 @@ I created the JSON format in the hope it could be useful for creating a searchab
 
 ## Notable Exchanges Within the Transcript
 
+## Swigert's Tax Return Extension (abbreviated)
+
+Timestamp `024:18:10`: Houston reading the news to the crew via CAP COM, "Okay. Some truck lines are being struck in the Midwest, and the school teachers have walked off the job in Minneapolis. Today's favorite pasttime across the - Uh oh; have you guys completed your income tax?"
+
+[...]
+
+Timestamp `024:18:32`: CMD responding to a CAP COMM, "Yes, Joe. I got to - hey, listen - It ain't too funny; things kind of happened real fast down there, and I do need an extension."
+
+Followed by various joking, laughter, and a bit later... 
+
+Timestamp `024:20:06`: "Houston, this is 13. Is it true that Jack's income tax return was going to be used to buy the ascent fuel for the LM?"
+
 ### Stirring the Cryo Tanks and Initial Problem
 
 Timestamp `055:52:58`: CAP COMM requests the air crew stir the oxygen tanks: "13, we've got one more item for you, when you get a chance. We'd like you to stir up your cryo tanks."
